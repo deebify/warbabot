@@ -1,0 +1,15 @@
+botbuilder-core
+asyncio
+aiohttp
+cookiecutter==1.7.0
+openai
+opencensus-ext-azure==1.0.8
+botbuilder-schema  
+langchain
+faiss-cpu
+tiktoken
+beautifulsoup4 
+requests 
+pytz
+chromadb
+pypdf
